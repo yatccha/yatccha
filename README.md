@@ -6,11 +6,10 @@
 - Currently learning **Data Structures** and **Database**.
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2E7D32?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2E7D32?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Data_Science](https://img.shields.io/badge/Data_Science-2E7D32?style=flat-square&logo=jupyter&logoColor=white)
+![Neuroscience](https://img.shields.io/badge/Neuroscience-2E7D32?style=flat-square&logo=brain&logoColor=white)
 <!--
 **yatccha/yatccha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
