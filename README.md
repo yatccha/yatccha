@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm HOCHAN KWON
+
+### About me
+- Studying **Software Convergence** at Kyung Hee University.
+- Interested in **Data Science** and **Neuroscience**.
+- Currently learning **Data Structures** and **Database**.
 
 <!--
 **yatccha/yatccha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
